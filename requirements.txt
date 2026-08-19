@@ -1,0 +1,24 @@
+# Python dependencies for the Amazon-Product-Recommender-System notebooks.
+# Install into a virtualenv:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+nltk
+wordcloud
+tqdm
+gensim
+
+# Deep learning (LSTM notebook)
+tensorflow
+
+# Jupyter notebook environment
+jupyterlab
+notebook
+ipykernel
